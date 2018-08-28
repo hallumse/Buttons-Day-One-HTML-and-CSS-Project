@@ -1,0 +1,106 @@
+body {
+  -webkit-font-smoothing: antialiased;
+}
+
+.go_to_console-container {
+  background: #fabc05;
+  padding: 7px;
+  width: 159px;
+}
+
+
+.go_to_console {
+  border: 2px solid #3f78b5;
+  font-family: "Roboto", sans-serif;
+  font-size: 13px;
+  background: #1b73e7;
+  color: #fbfcff;
+  padding: 14px 24px 14px;
+  border-radius: 4px;
+  letter-spacing: 0.5px;
+  font-weight: 600;
+}
+
+.get_started {
+    border: 1px solid #6b1fdc;
+    font-family: "Roboto", sans-serif;
+    font-size: 18px;
+    background: #fdfeff;
+    color: #7953b2;
+    padding: 17px 38px 24px 38px;
+    border-radius: 4px;
+    letter-spacing: -0.7px;
+    font-weight: 700;
+}
+
+.add_webhook {
+    border: 1px solid #c0bfc1;
+    font-family: "Roboto", sans-serif;
+    font-size: 12px;
+    background: #f2f4f7;
+    color: #363638;
+    padding: 5px 11px 5px 15px;
+    border-radius: 4px;
+    letter-spacing: -0.7px;
+    font-weight: 700;
+}
+
+.start_selling_online {
+    border: 2px solid #11277db0;
+    font-family: "Roboto", sans-serif;
+    font-size: 17px;
+    background: #64129e00;
+    color: #11277db0;
+    padding: 9px 38px 11px 33px;
+    border-radius: 6px;
+    letter-spacing: -0.7px;
+    font-weight: 600;
+}
+
+.visit_us {
+    border: 1px solid #c0bfc1;
+    font-family: "Roboto", sans-serif;
+    font-size: 17px;
+    background: #40a2f1;
+    color: #f8f8f9;
+    padding: 7px 39px 6px 32px;
+    border-radius: 16px;
+    letter-spacing: -0.7px;
+    font-weight: 400;
+}
+
+.sign_up {
+border: 1px solid #c0bfc1;
+    font-family: "Roboto", sans-serif;
+    font-size: 17px;
+    background: #e84a14db;
+    color: #efe9e8;
+    padding: 7px 39px 6px 32px;
+    border-radius: 9px;
+    letter-spacing: -0.7px;
+    font-weight: 700;
+}
+
+.log_in {
+ border: 1px solid #c0bfc1;
+    font-family: "Roboto", sans-serif;
+    font-size: 15px;
+    background: #e84a1400;
+    color: #444242d6;
+    padding: 7px 20px 12px;
+    border-radius: 5px;
+    letter-spacing: -0.7px;
+    font-weight: 800;
+}
+
+.sign_up_free {
+ border: 1px solid #c0bfc1;
+    font-family: "Roboto", sans-serif;
+    font-size: 15px;
+    background: #12b0cede;
+    color: #fffefdf0;
+    padding: 9px 36px 9px;
+    border-radius: 3px;
+    letter-spacing: 0.3px;
+    font-weight: 800;
+}
